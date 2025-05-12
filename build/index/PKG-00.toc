@@ -1,0 +1,3023 @@
+('C:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+ 'calculator\\build\\index\\index.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\build\\index\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\build\\index\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\build\\index\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\build\\index\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\build\\index\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\build\\index\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('index',
+   'C:\\Users\\larso\\OneDrive\\work\\LA tax and budget calculator\\index.py',
+   'PYSOURCE'),
+  ('python312.dll', 'C:\\Python312\\python312.dll', 'BINARY'),
+  ('numpy.libs\\libscipy_openblas64_-43e11ff0749b8cbe0a615c9cf6737e0e.dll',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\numpy.libs\\libscipy_openblas64_-43e11ff0749b8cbe0a615c9cf6737e0e.dll',
+   'BINARY'),
+  ('numpy.libs\\msvcp140-263139962577ecda4cd9469ca360a746.dll',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\numpy.libs\\msvcp140-263139962577ecda4cd9469ca360a746.dll',
+   'BINARY'),
+  ('unicodedata.pyd', 'C:\\Python312\\DLLs\\unicodedata.pyd', 'EXTENSION'),
+  ('_lzma.pyd', 'C:\\Python312\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_bz2.pyd', 'C:\\Python312\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('_decimal.pyd', 'C:\\Python312\\DLLs\\_decimal.pyd', 'EXTENSION'),
+  ('_hashlib.pyd', 'C:\\Python312\\DLLs\\_hashlib.pyd', 'EXTENSION'),
+  ('select.pyd', 'C:\\Python312\\DLLs\\select.pyd', 'EXTENSION'),
+  ('_socket.pyd', 'C:\\Python312\\DLLs\\_socket.pyd', 'EXTENSION'),
+  ('_overlapped.pyd', 'C:\\Python312\\DLLs\\_overlapped.pyd', 'EXTENSION'),
+  ('_ssl.pyd', 'C:\\Python312\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('_queue.pyd', 'C:\\Python312\\DLLs\\_queue.pyd', 'EXTENSION'),
+  ('_ctypes.pyd', 'C:\\Python312\\DLLs\\_ctypes.pyd', 'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Python312\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd', 'C:\\Python312\\DLLs\\pyexpat.pyd', 'EXTENSION'),
+  ('_asyncio.pyd', 'C:\\Python312\\DLLs\\_asyncio.pyd', 'EXTENSION'),
+  ('_wmi.pyd', 'C:\\Python312\\DLLs\\_wmi.pyd', 'EXTENSION'),
+  ('_elementtree.pyd', 'C:\\Python312\\DLLs\\_elementtree.pyd', 'EXTENSION'),
+  ('numpy\\_core\\_multiarray_tests.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\numpy\\_core\\_multiarray_tests.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\_core\\_multiarray_umath.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\numpy\\_core\\_multiarray_umath.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\mtrand.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\numpy\\random\\mtrand.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\numpy\\random\\_sfc64.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\numpy\\random\\_philox.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\numpy\\random\\_pcg64.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\numpy\\random\\_mt19937.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\numpy\\random\\bit_generator.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\numpy\\random\\_generator.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\numpy\\random\\_bounded_integers.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\numpy\\random\\_common.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_umath.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\numpy\\fft\\_pocketfft_umath.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\writers.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\writers.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('markupsafe\\_speedups.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\markupsafe\\_speedups.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd', 'C:\\Python312\\DLLs\\_uuid.pyd', 'EXTENSION'),
+  ('sqlalchemy\\cyextension\\util.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\sqlalchemy\\cyextension\\util.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('sqlalchemy\\cyextension\\resultproxy.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\sqlalchemy\\cyextension\\resultproxy.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('sqlalchemy\\cyextension\\processors.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\sqlalchemy\\cyextension\\processors.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('sqlalchemy\\cyextension\\immutabledict.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\sqlalchemy\\cyextension\\immutabledict.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('sqlalchemy\\cyextension\\collections.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\sqlalchemy\\cyextension\\collections.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('greenlet\\_greenlet.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\greenlet\\_greenlet.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('_sqlite3.pyd', 'C:\\Python312\\DLLs\\_sqlite3.pyd', 'EXTENSION'),
+  ('pandas\\_libs\\window\\indexers.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\window\\indexers.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\window\\aggregations.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\window\\aggregations.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\vectorized.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\vectorized.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\tzconversion.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\tzconversion.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timezones.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timezones.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timestamps.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timestamps.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timedeltas.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timedeltas.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\strptime.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\strptime.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\period.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\period.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\parsing.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\parsing.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\offsets.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\offsets.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\np_datetime.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\np_datetime.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\nattype.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\nattype.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\fields.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\fields.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\dtypes.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\dtypes.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\conversion.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\conversion.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\ccalendar.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\ccalendar.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\base.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\base.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslib.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslib.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\testing.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\testing.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\sparse.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\sparse.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\sas.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\sas.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\reshape.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\reshape.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\properties.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\properties.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\parsers.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\parsers.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\pandas_parser.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\pandas_parser.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\pandas_datetime.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\pandas_datetime.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\ops_dispatch.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\ops_dispatch.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\ops.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\ops.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\missing.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\missing.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\lib.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\lib.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\json.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\json.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\join.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\join.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\interval.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\interval.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\internals.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\internals.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\indexing.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\indexing.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\index.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\index.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\hashtable.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\hashtable.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\hashing.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\hashing.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\groupby.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\groupby.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\byteswap.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\byteswap.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\arrays.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\arrays.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\algos.cp312-win_amd64.pyd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\_libs\\algos.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll', 'C:\\Python312\\VCRUNTIME140.dll', 'BINARY'),
+  ('VCRUNTIME140_1.dll', 'C:\\Python312\\VCRUNTIME140_1.dll', 'BINARY'),
+  ('libcrypto-3.dll', 'C:\\Python312\\DLLs\\libcrypto-3.dll', 'BINARY'),
+  ('libssl-3.dll', 'C:\\Python312\\DLLs\\libssl-3.dll', 'BINARY'),
+  ('libffi-8.dll', 'C:\\Python312\\DLLs\\libffi-8.dll', 'BINARY'),
+  ('sqlite3.dll', 'C:\\Python312\\DLLs\\sqlite3.dll', 'BINARY'),
+  ('pandas.libs\\msvcp140-0f2ea95580b32bcfc81c235d5751ce78.dll',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas.libs\\msvcp140-0f2ea95580b32bcfc81c235d5751ce78.dll',
+   'BINARY'),
+  ('dateutil\\zoneinfo\\dateutil-zoneinfo.tar.gz',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\dateutil\\zoneinfo\\dateutil-zoneinfo.tar.gz',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex.tpl',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html.tpl',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html_style.tpl',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html_style.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex_table.tpl',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex_table.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex_longtable.tpl',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex_longtable.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\string.tpl',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\string.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html_table.tpl',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html_table.tpl',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Managua',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Managua',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Reunion',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Reunion',
+   'DATA'),
+  ('pytz\\zoneinfo\\GB-Eire',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\GB-Eire',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Niamey',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Niamey',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Hawaii',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Hawaii',
+   'DATA'),
+  ('pytz\\zoneinfo\\Japan',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Japan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\General',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Mexico\\General',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santa_Isabel',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santa_Isabel',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fort_Wayne',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Fort_Wayne',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santo_Domingo',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santo_Domingo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Brussels',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Brussels',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dhaka',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dhaka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Marquesas',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Marquesas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bahrain',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bahrain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aden',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aden',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Manaus',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Manaus',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Manila',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Manila',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mahe',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mahe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Atlantic',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Atlantic',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Metlakatla',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Metlakatla',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kanton',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kanton',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\South_Pole',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\South_Pole',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Knox_IN',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Knox_IN',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Abidjan',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Abidjan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kathmandu',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kathmandu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Portugal',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Portugal',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montreal',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Montreal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\San_Marino',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\San_Marino',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Astrakhan',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Astrakhan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Majuro',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Majuro',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+2',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+2',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dawson',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Dawson',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kirov',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kirov',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cancun',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cancun',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Indiana-Starke',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Indiana-Starke',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Johnston',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Johnston',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tegucigalpa',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Tegucigalpa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Sofia',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Sofia',
+   'DATA'),
+  ('pytz\\zoneinfo\\ROK',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\ROK',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Costa_Rica',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Costa_Rica',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cuiaba',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cuiaba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Honolulu',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Honolulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Kwajalein',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Kwajalein',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cordoba',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cordoba',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Inuvik',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Inuvik',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Pangnirtung',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Pangnirtung',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Stockholm',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Stockholm',
+   'DATA'),
+  ('pytz\\zoneinfo\\Cuba',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Cuba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Universal',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Universal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Midway',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Midway',
+   'DATA'),
+  ('pytz\\zoneinfo\\zone1970.tab',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\zone1970.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Coral_Harbour',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Coral_Harbour',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\BajaNorte',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Mexico\\BajaNorte',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Porto_Acre',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Porto_Acre',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Sao_Paulo',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Sao_Paulo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\South_Georgia',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\South_Georgia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Chuuk',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Chuuk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Swift_Current',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Swift_Current',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Sitka',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Sitka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+8',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+8',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tbilisi',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tbilisi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Yukon',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Yukon',
+   'DATA'),
+  ('pytz\\zoneinfo\\ROC',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\ROC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\St_Helena',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\St_Helena',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Novosibirsk',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Novosibirsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Magadan',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Magadan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dawson_Creek',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Dawson_Creek',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Vostok',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Vostok',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+6',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+6',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Los_Angeles',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Los_Angeles',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Brazzaville',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Brazzaville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bissau',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bissau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Novokuznetsk',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Novokuznetsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-11',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-11',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Stanley',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Stanley',
+   'DATA'),
+  ('pytz\\zoneinfo\\CET',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\CET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Khandyga',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Khandyga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kabul',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kabul',
+   'DATA'),
+  ('pytz\\zoneinfo\\UCT',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\UCT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Recife',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Recife',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\South',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\South',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jayapura',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jayapura',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Bucharest',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Bucharest',
+   'DATA'),
+  ('pytz\\zoneinfo\\Navajo',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Navajo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Minsk',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Minsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT0',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\GMT0',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rainy_River',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rainy_River',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\East-Indiana',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\East-Indiana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Central',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Central',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kinshasa',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kinshasa',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Pacific',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Pacific',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Skopje',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Skopje',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Rarotonga',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Rarotonga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Niue',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Niue',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Yellowknife',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Yellowknife',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Belfast',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Belfast',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Cape_Verde',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Cape_Verde',
+   'DATA'),
+  ('pytz\\zoneinfo\\EST5EDT',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\EST5EDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\DumontDUrville',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\DumontDUrville',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Mendoza',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Mendoza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montevideo',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Montevideo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-13',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-13',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Oslo',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Oslo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Jamaica',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Jamaica',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Vancouver',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Vancouver',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Boise',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Boise',
+   'DATA'),
+  ('pytz\\zoneinfo\\Iceland',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Iceland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Saipan',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Saipan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Palmer',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Palmer',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qatar',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qatar',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Grand_Turk',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Grand_Turk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Denver',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Denver',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Yakutat',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Yakutat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Enderbury',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Enderbury',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\East',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\East',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rosario',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rosario',
+   'DATA'),
+  ('pytz\\zoneinfo\\PST8PDT',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\PST8PDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Nicosia',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Nicosia',
+   'DATA'),
+  ('pytz\\zoneinfo\\MST7MDT',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\MST7MDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Tasmania',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Tasmania',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Faeroe',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Faeroe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Edmonton',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Edmonton',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hebron',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hebron',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Karachi',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Karachi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Moscow',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Moscow',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montserrat',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Montserrat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Ulyanovsk',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Ulyanovsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\MST',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\MST',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Queensland',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Queensland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ujung_Pandang',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ujung_Pandang',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Gambier',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Gambier',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Goose_Bay',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Goose_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\West',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\West',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Palau',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Palau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Berlin',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Berlin',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Louisville',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Louisville',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Taipei',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Taipei',
+   'DATA'),
+  ('pytz\\zoneinfo\\Iran',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Iran',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Cairo',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Cairo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Chisinau',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Chisinau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Monrovia',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Monrovia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Srednekolymsk',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Srednekolymsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Riga',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Riga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Singapore',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Singapore',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rio_Branco',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rio_Branco',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\McMurdo',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\McMurdo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Lucia',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Lucia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Blanc-Sablon',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Blanc-Sablon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yekaterinburg',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yekaterinburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Sarajevo',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Sarajevo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Miquelon',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Miquelon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Podgorica',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Podgorica',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Atikokan',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Atikokan',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Eastern',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Eastern',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chita',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chita',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Campo_Grande',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Campo_Grande',
+   'DATA'),
+  ('pytz\\zoneinfo\\zone.tab',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\zone.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+5',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+5',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\El_Salvador',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\El_Salvador',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fort_Nelson',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Fort_Nelson',
+   'DATA'),
+  ('pytz\\zoneinfo\\zonenow.tab',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\zonenow.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guayaquil',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guayaquil',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Busingen',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Busingen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Apia',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Apia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Kitts',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Kitts',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Pacific',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Pacific',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zagreb',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zagreb',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-1',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-1',
+   'DATA'),
+  ('pytz\\zoneinfo\\Greenwich',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Greenwich',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ciudad_Juarez',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Ciudad_Juarez',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Amman',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Amman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Maldives',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Maldives',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aqtobe',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aqtobe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Rome',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Rome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Algiers',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Algiers',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Resolute',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Resolute',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Banjul',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Banjul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Warsaw',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Warsaw',
+   'DATA'),
+  ('pytz\\zoneinfo\\PRC',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\PRC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Sydney',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Sydney',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\Acre',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\Acre',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT0',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\UCT',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\UCT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Ljubljana',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Ljubljana',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Adak',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Adak',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santarem',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santarem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Mogadishu',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Mogadishu',
+   'DATA'),
+  ('pytz\\zoneinfo\\UTC',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\UTC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kamchatka',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kamchatka',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Araguaina',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Araguaina',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Martinique',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Martinique',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lusaka',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lusaka',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\New_York',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\New_York',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Porto_Velho',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Porto_Velho',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Winnipeg',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Winnipeg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Porto-Novo',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Porto-Novo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Thomas',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Thomas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dacca',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dacca',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Vincennes',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Vincennes',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Azores',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Azores',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Noumea',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Noumea',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Beirut',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Beirut',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Punta_Arenas',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Punta_Arenas',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nipigon',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nipigon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Vientiane',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Vientiane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tashkent',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tashkent',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Ponape',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Ponape',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Faroe',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Faroe',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Central',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Central',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Nouakchott',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Nouakchott',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bangkok',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bangkok',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-3',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-3',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Chicago',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Chicago',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Jujuy',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Jujuy',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kaliningrad',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kaliningrad',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Sao_Tome',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Sao_Tome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Addis_Ababa',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Addis_Ababa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Creston',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Creston',
+   'DATA'),
+  ('pytz\\zoneinfo\\MET',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\MET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kolkata',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kolkata',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\Center',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\Center',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Saigon',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Saigon',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\San_Juan',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\San_Juan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Merida',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Merida',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Anchorage',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Anchorage',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\La_Paz',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\La_Paz',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Saskatchewan',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Saskatchewan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Anadyr',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Anadyr',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Pontianak',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Pontianak',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Monterrey',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Monterrey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Volgograd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Volgograd',
+   'DATA'),
+  ('pytz\\zoneinfo\\EST',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\EST',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Vladivostok',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Vladivostok',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Wake',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Wake',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-14',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-14',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-9',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-9',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Petersburg',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Petersburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\ACT',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\ACT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+12',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+12',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Samoa',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Samoa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bangui',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bangui',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Timbuktu',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Timbuktu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+7',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+7',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Shiprock',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Shiprock',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Bougainville',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Bougainville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yerevan',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yerevan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-12',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-12',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Scoresbysund',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Scoresbysund',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ouagadougou',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ouagadougou',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Famagusta',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Famagusta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Syowa',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Syowa',
+   'DATA'),
+  ('pytz\\zoneinfo\\HST',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\HST',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Rothera',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Rothera',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+3',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+3',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Nicosia',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Nicosia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bogota',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Bogota',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vatican',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vatican',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Jersey',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Jersey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Riyadh',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Riyadh',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Irkutsk',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Irkutsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Moncton',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Moncton',
+   'DATA'),
+  ('pytz\\zoneinfo\\W-SU',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\W-SU',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Johns',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Johns',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Asmara',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Asmara',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kashgar',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kashgar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Calcutta',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Calcutta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Malabo',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Malabo',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Aleutian',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Aleutian',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Blantyre',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Blantyre',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Tripoli',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Tripoli',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bahia',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Bahia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Casablanca',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Casablanca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Saratov',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Saratov',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Tell_City',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Tell_City',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Regina',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Regina',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Coyhaique',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Coyhaique',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Hobart',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Hobart',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Krasnoyarsk',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Krasnoyarsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Nauru',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Nauru',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Mountain',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Mountain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Reykjavik',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Reykjavik',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tongatapu',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tongatapu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Danmarkshavn',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Danmarkshavn',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Jujuy',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Jujuy',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Lindeman',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Lindeman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Norfolk',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Norfolk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ceuta',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ceuta',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bahia_Banderas',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Bahia_Banderas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Maseru',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Maseru',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\West',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\West',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'DATA'),
+  ('pytz\\zoneinfo\\NZ-CHAT',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\NZ-CHAT',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\GMT',
+   'DATA'),
+  ('pytz\\zoneinfo\\tzdata.zi',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\tzdata.zi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Istanbul',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Istanbul',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Marengo',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Marengo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Asuncion',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Asuncion',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Madeira',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Madeira',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nuuk',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nuuk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kosrae',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kosrae',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Knox',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Knox',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Bermuda',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Bermuda',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuching',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuching',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Harbin',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Harbin',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Paramaribo',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Paramaribo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Malta',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Malta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Port_Moresby',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Port_Moresby',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Noronha',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Noronha',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Vevay',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Vevay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Eucla',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Eucla',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-0',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-0',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Juneau',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Juneau',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mazatlan',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Mazatlan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Matamoros',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Matamoros',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Prague',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Prague',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Accra',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Accra',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Easter',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Easter',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tokyo',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tokyo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Uzhgorod',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Uzhgorod',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Universal',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\Universal',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santiago',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santiago',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-8',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-8',
+   'DATA'),
+  ('pytz\\zoneinfo\\Libya',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Libya',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cambridge_Bay',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cambridge_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Atka',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Atka',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cayenne',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cayenne',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kyiv',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kyiv',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Funafuti',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Funafuti',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kiev',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kiev',
+   'DATA'),
+  ('pytz\\zoneinfo\\Factory',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Factory',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Barnaul',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Barnaul',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Barthelemy',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Barthelemy',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\North',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\North',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kentucky\\Monticello',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Kentucky\\Monticello',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yakutsk',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yakutsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Simferopol',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Simferopol',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-6',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-6',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tehran',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tehran',
+   'DATA'),
+  ('pytz\\zoneinfo\\Zulu',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Zulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Troll',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Troll',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+4',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+4',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Omsk',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Omsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Curacao',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Curacao',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jerusalem',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jerusalem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Arctic\\Longyearbyen',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Arctic\\Longyearbyen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Maputo',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Maputo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Mariehamn',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Mariehamn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-5',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-5',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-7',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-7',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Phoenix',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Phoenix',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jakarta',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jakarta',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kentucky\\Louisville',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Kentucky\\Louisville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-2',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-2',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Gaza',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Gaza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Turkey',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Turkey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuwait',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuwait',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kwajalein',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kwajalein',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Isle_of_Man',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Isle_of_Man',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rankin_Inlet',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rankin_Inlet',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Catamarca',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Catamarca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Pyongyang',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Pyongyang',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Fiji',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Fiji',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Fakaofo',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Fakaofo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Gaborone',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Gaborone',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Panama',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Panama',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Harare',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Harare',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Vincent',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Vincent',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Macquarie',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Macquarie',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Davis',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Davis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Chagos',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Chagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Thunder_Bay',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Thunder_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Michigan',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Michigan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aqtau',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aqtau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Guernsey',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Guernsey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hovd',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hovd',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Winamac',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Winamac',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Chihuahua',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Chihuahua',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Hermosillo',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Hermosillo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Antigua',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Antigua',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Yancowinna',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Yancowinna',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Tunis',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Tunis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+0',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Lord_Howe',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Lord_Howe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\NSW',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\NSW',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tel_Aviv',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tel_Aviv',
+   'DATA'),
+  ('pytz\\zoneinfo\\Egypt',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Egypt',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Samoa',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Samoa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Menominee',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Menominee',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chongqing',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chongqing',
+   'DATA'),
+  ('pytz\\zoneinfo\\Hongkong',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Hongkong',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Thule',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Thule',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zurich',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zurich',
+   'DATA'),
+  ('pytz\\zoneinfo\\Israel',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Israel',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qyzylorda',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qyzylorda',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Samara',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Samara',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\BajaSur',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Mexico\\BajaSur',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\London',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\London',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Zulu',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\Zulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-10',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-10',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kampala',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kampala',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Sakhalin',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Sakhalin',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT-0',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\GMT-0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kiritimati',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kiritimati',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\El_Aaiun',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\El_Aaiun',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Luanda',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Luanda',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pohnpei',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pohnpei',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Cocos',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Cocos',
+   'DATA'),
+  ('pytz\\zoneinfo\\leapseconds',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\leapseconds',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\UTC',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\UTC',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Anguilla',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Anguilla',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Aruba',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Aruba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Chile\\EasterIsland',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Chile\\EasterIsland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mayotte',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mayotte',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tomsk',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tomsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Currie',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Currie',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Douala',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Douala',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Eastern',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Eastern',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Virgin',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Virgin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Poland',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Poland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Baku',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Baku',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Antananarivo',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Antananarivo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Dakar',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Dakar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Darwin',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Darwin',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ensenada',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Ensenada',
+   'DATA'),
+  ('pytz\\zoneinfo\\Chile\\Continental',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Chile\\Continental',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Guadalcanal',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Guadalcanal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Belgrade',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Belgrade',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Macau',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Macau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Rangoon',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Rangoon',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kralendijk',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Kralendijk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Madrid',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Madrid',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bujumbura',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bujumbura',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\DeNoronha',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\DeNoronha',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Lima',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Lima',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ust-Nera',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ust-Nera',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Buenos_Aires',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Buenos_Aires',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Broken_Hill',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Broken_Hill',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Paris',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Paris',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Greenwich',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\Greenwich',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Andorra',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Andorra',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+10',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+10',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Marigot',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Marigot',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Brisbane',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Brisbane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Luxembourg',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Luxembourg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Newfoundland',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Newfoundland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Jamaica',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Jamaica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bishkek',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bishkek',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Puerto_Rico',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Puerto_Rico',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mexico_City',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Mexico_City',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Barbados',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Barbados',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Urumqi',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Urumqi',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\San_Luis',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\San_Luis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dubai',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dubai',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Auckland',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Auckland',
+   'DATA'),
+  ('pytz\\zoneinfo\\CST6CDT',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\CST6CDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Samarkand',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Samarkand',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Salta',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Salta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Libreville',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Libreville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Casey',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Casey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Khartoum',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Khartoum',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Catamarca',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Catamarca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qostanay',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qostanay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ashkhabad',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ashkhabad',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+1',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+1',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bamako',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bamako',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mendoza',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Mendoza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vilnius',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vilnius',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Freetown',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Freetown',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yangon',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yangon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Djibouti',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Djibouti',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tiraspol',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tiraspol',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Atyrau',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Atyrau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Christmas',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Christmas',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Asmera',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Asmera',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Istanbul',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Istanbul',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cayman',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cayman',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT+0',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\GMT+0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-4',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-4',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Victoria',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Victoria',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Lower_Princes',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Lower_Princes',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Lisbon',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Lisbon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Conakry',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Conakry',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Katmandu',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Katmandu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ulaanbaatar',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ulaanbaatar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Monaco',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Monaco',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Belem',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Belem',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Boa_Vista',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Boa_Vista',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Efate',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Efate',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vienna',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vienna',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tirane',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tirane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Shanghai',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Shanghai',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tortola',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Tortola',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Adelaide',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Adelaide',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Port_of_Spain',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Port_of_Spain',
+   'DATA'),
+  ('pytz\\zoneinfo\\iso3166.tab',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\iso3166.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ulan_Bator',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ulan_Bator',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vaduz',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vaduz',
+   'DATA'),
+  ('pytz\\zoneinfo\\WET',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\WET',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Belize',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Belize',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Athens',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Athens',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nassau',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nassau',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Eirunepe',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Eirunepe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Yap',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Yap',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Windhoek',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Windhoek',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Johannesburg',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Johannesburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Comoro',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Comoro',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Oral',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Oral',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Singapore',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Singapore',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Thimbu',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Thimbu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nome',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nome',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guadeloupe',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guadeloupe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lome',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lome',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Port-au-Prince',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Port-au-Prince',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Cordoba',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Cordoba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zaporozhye',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zaporozhye',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Baghdad',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Baghdad',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Iqaluit',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Iqaluit',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Maceio',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Maceio',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Almaty',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Almaty',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fortaleza',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Fortaleza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Copenhagen',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Copenhagen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Canberra',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Canberra',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Nairobi',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Nairobi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chungking',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chungking',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tahiti',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tahiti',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Perth',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Perth',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+11',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+11',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Guam',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Guam',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\LHI',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\LHI',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Makassar',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Makassar',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guyana',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guyana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pitcairn',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pitcairn',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ojinaga',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Ojinaga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dili',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dili',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Alaska',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Alaska',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Thimphu',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Thimphu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Bratislava',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Bratislava',
+   'DATA'),
+  ('pytz\\zoneinfo\\NZ',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\NZ',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+9',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+9',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Damascus',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Damascus',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kigali',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kigali',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Arizona',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Arizona',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Choibalsan',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Choibalsan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Muscat',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Muscat',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tijuana',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Tijuana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Amsterdam',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Amsterdam',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Melbourne',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Melbourne',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ndjamena',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ndjamena',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Gibraltar',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Gibraltar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Budapest',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Budapest',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Chatham',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Chatham',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Colombo',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Colombo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indianapolis',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indianapolis',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Mountain',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Mountain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Brunei',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Brunei',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Seoul',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Seoul',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guatemala',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guatemala',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Glace_Bay',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Glace_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Tucuman',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Tucuman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mauritius',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mauritius',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ashgabat',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ashgabat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Wallis',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Wallis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Dublin',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Dublin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dushanbe',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dushanbe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Phnom_Penh',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Phnom_Penh',
+   'DATA'),
+  ('pytz\\zoneinfo\\GB',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\GB',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Detroit',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Detroit',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Helsinki',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Helsinki',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Canary',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Canary',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Caracas',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Caracas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pago_Pago',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pago_Pago',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Kerguelen',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Kerguelen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lagos',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lubumbashi',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lubumbashi',
+   'DATA'),
+  ('pytz\\zoneinfo\\EET',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\EET',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Whitehorse',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Whitehorse',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Godthab',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Godthab',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Grenada',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Grenada',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dominica',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Dominica',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Toronto',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Toronto',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Galapagos',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Galapagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Havana',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Havana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Truk',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Truk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Juba',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Juba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Mawson',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Mawson',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tallinn',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tallinn',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Halifax',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Halifax',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Macao',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Macao',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hong_Kong',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hong_Kong',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tarawa',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tarawa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Eire',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Eire',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Mbabane',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Mbabane',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
+   'ipsum.txt',
+   'DATA'),
+  ('flask-3.1.0.dist-info\\RECORD',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\flask-3.1.0.dist-info\\RECORD',
+   'DATA'),
+  ('numpy-2.2.5.dist-info\\LICENSE.txt',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\numpy-2.2.5.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('flask-3.1.0.dist-info\\REQUESTED',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\flask-3.1.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('werkzeug-3.1.3.dist-info\\LICENSE.txt',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\werkzeug-3.1.3.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.2.5.dist-info\\WHEEL',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\numpy-2.2.5.dist-info\\WHEEL',
+   'DATA'),
+  ('werkzeug-3.1.3.dist-info\\INSTALLER',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\werkzeug-3.1.3.dist-info\\INSTALLER',
+   'DATA'),
+  ('flask_sqlalchemy-3.1.1.dist-info\\WHEEL',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\flask_sqlalchemy-3.1.1.dist-info\\WHEEL',
+   'DATA'),
+  ('werkzeug-3.1.3.dist-info\\METADATA',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\werkzeug-3.1.3.dist-info\\METADATA',
+   'DATA'),
+  ('MarkupSafe-3.0.2.dist-info\\top_level.txt',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\MarkupSafe-3.0.2.dist-info\\top_level.txt',
+   'DATA'),
+  ('flask-3.1.0.dist-info\\INSTALLER',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\flask-3.1.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.45.1.dist-info\\INSTALLER',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.45.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('numpy-2.2.5.dist-info\\entry_points.txt',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\numpy-2.2.5.dist-info\\entry_points.txt',
+   'DATA'),
+  ('numpy-2.2.5.dist-info\\METADATA',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\numpy-2.2.5.dist-info\\METADATA',
+   'DATA'),
+  ('itsdangerous-2.2.0.dist-info\\INSTALLER',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('flask-3.1.0.dist-info\\WHEEL',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\flask-3.1.0.dist-info\\WHEEL',
+   'DATA'),
+  ('numpy-2.2.5.dist-info\\DELVEWHEEL',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\numpy-2.2.5.dist-info\\DELVEWHEEL',
+   'DATA'),
+  ('flask_sqlalchemy-3.1.1.dist-info\\RECORD',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\flask_sqlalchemy-3.1.1.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.45.1.dist-info\\WHEEL',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.45.1.dist-info\\WHEEL',
+   'DATA'),
+  ('numpy-2.2.5.dist-info\\RECORD',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\numpy-2.2.5.dist-info\\RECORD',
+   'DATA'),
+  ('flask_sqlalchemy-3.1.1.dist-info\\LICENSE.rst',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\flask_sqlalchemy-3.1.1.dist-info\\LICENSE.rst',
+   'DATA'),
+  ('flask-3.1.0.dist-info\\entry_points.txt',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\flask-3.1.0.dist-info\\entry_points.txt',
+   'DATA'),
+  ('MarkupSafe-3.0.2.dist-info\\METADATA',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\MarkupSafe-3.0.2.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.45.1.dist-info\\METADATA',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.45.1.dist-info\\METADATA',
+   'DATA'),
+  ('itsdangerous-2.2.0.dist-info\\LICENSE.txt',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.2.5.dist-info\\INSTALLER',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\numpy-2.2.5.dist-info\\INSTALLER',
+   'DATA'),
+  ('MarkupSafe-3.0.2.dist-info\\INSTALLER',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\MarkupSafe-3.0.2.dist-info\\INSTALLER',
+   'DATA'),
+  ('flask_sqlalchemy-3.1.1.dist-info\\METADATA',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\flask_sqlalchemy-3.1.1.dist-info\\METADATA',
+   'DATA'),
+  ('MarkupSafe-3.0.2.dist-info\\LICENSE.txt',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\MarkupSafe-3.0.2.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('werkzeug-3.1.3.dist-info\\WHEEL',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\werkzeug-3.1.3.dist-info\\WHEEL',
+   'DATA'),
+  ('flask-3.1.0.dist-info\\LICENSE.txt',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\flask-3.1.0.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('flask_sqlalchemy-3.1.1.dist-info\\INSTALLER',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\flask_sqlalchemy-3.1.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('MarkupSafe-3.0.2.dist-info\\WHEEL',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\MarkupSafe-3.0.2.dist-info\\WHEEL',
+   'DATA'),
+  ('werkzeug-3.1.3.dist-info\\RECORD',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\werkzeug-3.1.3.dist-info\\RECORD',
+   'DATA'),
+  ('flask_sqlalchemy-3.1.1.dist-info\\REQUESTED',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\flask_sqlalchemy-3.1.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.45.1.dist-info\\entry_points.txt',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.45.1.dist-info\\entry_points.txt',
+   'DATA'),
+  ('MarkupSafe-3.0.2.dist-info\\RECORD',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\MarkupSafe-3.0.2.dist-info\\RECORD',
+   'DATA'),
+  ('itsdangerous-2.2.0.dist-info\\METADATA',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.45.1.dist-info\\RECORD',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.45.1.dist-info\\RECORD',
+   'DATA'),
+  ('flask-3.1.0.dist-info\\METADATA',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\flask-3.1.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.45.1.dist-info\\LICENSE.txt',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.45.1.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\wheel-0.45.1.dist-info\\REQUESTED',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\wheel-0.45.1.dist-info\\REQUESTED',
+   'DATA'),
+  ('itsdangerous-2.2.0.dist-info\\RECORD',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\RECORD',
+   'DATA'),
+  ('itsdangerous-2.2.0.dist-info\\WHEEL',
+   'c:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\.venv\\Lib\\site-packages\\itsdangerous-2.2.0.dist-info\\WHEEL',
+   'DATA'),
+  ('base_library.zip',
+   'C:\\Users\\larso\\OneDrive\\work\\LA tax and budget '
+   'calculator\\build\\index\\base_library.zip',
+   'DATA')],
+ 'python312.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
