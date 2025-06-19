@@ -2534,7 +2534,6 @@ def download_statements():
                     r['name'],
                     r['amt'],
                     int(r['entry_id'])])
-
     out = BytesIO()
     wb.save(out)
     out.seek(0)
@@ -2545,6 +2544,4 @@ def download_statements():
       mimetype='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
     )
 if __name__ == '__main__':
-   
      app.run(debug=True)
-     
