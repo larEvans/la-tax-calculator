@@ -1,0 +1,48 @@
+name: Deploy Static Site
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+permissions:
+  contents: read    # for checkout
+  pages: write      # to publish
+  id-token: write   # required by `configure-pages`
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1) grab your code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2) if you need to install/build (e.g. npm, yarn, etc.)
+      - name: Install dependencies
+        run: |
+          npm ci
+
+      - name: Build production assets
+        run: |
+          npm run build    # outputs into dist/
+
+      # 3) tell GitHub Pages to expect an artifact
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      # 4) upload your `dist/` folder as the Pages artifact
+      - name: Upload artifact for Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+      # 5) deploy it
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
+        id: deployment
+
+    # optional: expose the published URL as a job output
+    outputs:
+      page_url: ${{ steps.deployment.outputs.page_url }}
